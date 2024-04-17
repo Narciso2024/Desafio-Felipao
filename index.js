@@ -1,5 +1,5 @@
 let nome = 'Joao';
-let qtde = 9000;
+let qtde = 1;
 let nivel = 'fora de parametro!';
 
 if (qtde < 1000) {
